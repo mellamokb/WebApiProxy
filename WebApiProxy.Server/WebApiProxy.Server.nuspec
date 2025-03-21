@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
-    <id>WebApiProxy</id>
+    <id>mellamokb.WebApiProxy</id>
     <version>$version$</version>
     <title>Web Api Proxy Provider</title>
-    <authors>Fanie Reynders</authors>
-    <owners>Fanie Reynders</owners>
+    <authors>mellamokb; Fanie Reynders</authors>
+    <owners>mellamokb; Fanie Reynders</owners>
     <projectUrl>https://github.com/faniereynders/WebApiProxy</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Provides an endpoint for ASP.NET Web Api services to serve a JavaScript proxy and metadata.</description>
