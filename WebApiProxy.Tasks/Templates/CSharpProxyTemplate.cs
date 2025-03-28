@@ -542,6 +542,7 @@ using ");
 		/// </summary>
 		protected string EncodeParam<T>(T value) 
 		{
+			if (value == null) return """";
 			return System.Net.WebUtility.UrlEncode(value.ToString());
 		}
 
